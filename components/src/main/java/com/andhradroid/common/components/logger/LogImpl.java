@@ -1,4 +1,4 @@
-package com.andhradroid.android.common.components.logger;
+package com.andhradroid.common.components.logger;
 
 /**
  * Created by Ramesh on 10/12/15.

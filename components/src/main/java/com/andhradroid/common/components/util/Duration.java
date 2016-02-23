@@ -1,4 +1,4 @@
-package com.andhradroid.android.common.components.util;
+package com.andhradroid.common.components.util;
 
 /**
  * Created by Ramesh on 22/2/16.

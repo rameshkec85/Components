@@ -2,8 +2,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-version = "1.0.1"
-group = "andhradroid"
+version = "1.0.3"
+group = "com.andhradroid"
 
 def siteUrl = 'https://github.com/rameshkec85/Components'
 def gitUrl = 'https://github.com/rameshkec85/Components.git'

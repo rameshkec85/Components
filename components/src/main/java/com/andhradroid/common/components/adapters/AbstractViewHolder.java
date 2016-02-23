@@ -1,4 +1,4 @@
-package com.andhradroid.android.common.components.adapters;
+package com.andhradroid.common.components.adapters;
 
 import android.view.View;
 

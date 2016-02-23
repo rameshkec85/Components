@@ -1,4 +1,4 @@
-package com.andhradroid.android.common.components.util;
+package com.andhradroid.common.components.util;
 
 import android.content.Context;
 import android.widget.Toast;
