@@ -19,4 +19,5 @@ dependencies {
 }
 ```
 
+[ ![Download](https://api.bintray.com/packages/rameshkec85/maven/Components/images/download.svg) ](https://bintray.com/rameshkec85/maven/Components/_latestVersion)
 
