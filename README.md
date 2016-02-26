@@ -18,7 +18,7 @@ allprojects {
 
 ```
 dependencies {
- compile 'com.andhradroid:components:1.0.5'
+ compile 'com.andhradroid:components:1.0.6'
 }
 ```
 

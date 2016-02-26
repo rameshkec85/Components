@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-version = "1.0.5"
+version = "1.0.6"
 group = "com.andhradroid"
 
 def siteUrl = 'https://github.com/rameshkec85/Components'
