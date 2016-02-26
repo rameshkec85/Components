@@ -9,7 +9,7 @@ allprojects {
     repositories {
         
         maven {
-            url 'https://dl.bintray.com/rameshkec85/maven'
+            url 'https://dl.bintray.com/rameshkec85/Andhradroid'
         }
     }
 }
