@@ -1,5 +1,5 @@
 
-[ ![Download](https://api.bintray.com/packages/rameshkec85/maven/Components/images/download.svg) ](https://bintray.com/rameshkec85/maven/Components/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/rameshkec85/Andhradroid/components/images/download.svg) ](https://bintray.com/rameshkec85/Andhradroid/components/_latestVersion)
 
 # Components
 Reusable Components
@@ -18,7 +18,7 @@ allprojects {
 
 ```
 dependencies {
- compile 'com.andhradroid:components:1.0.3'
+ compile 'com.andhradroid:components:1.0.5'
 }
 ```
 
