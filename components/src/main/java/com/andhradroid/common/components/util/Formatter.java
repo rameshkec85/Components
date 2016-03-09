@@ -13,7 +13,7 @@ public interface Formatter {
      * @param toPattern The to pattern. Pattern "dd-MM-yyyy" returns "26-02-2016"
      * @return the converted date to string.
      */
-    String convertDateToString(Date date, String toPattern);
+    String convertDateToString(final Date date, final  String toPattern);
 
     /**
      * Convert string to date in specific format using pattern.
@@ -22,5 +22,5 @@ public interface Formatter {
      * @param fromPattern
      * @return
      */
-    Date convertStringToDate(String date, String fromPattern);
+    Date convertStringToDate(final String date, final String fromPattern);
 }

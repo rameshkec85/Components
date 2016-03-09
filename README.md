@@ -5,20 +5,8 @@
 Reusable Components
 
 ```
-allprojects {
-    repositories {
-        
-        maven {
-            url 'https://dl.bintray.com/rameshkec85/Andhradroid'
-        }
-    }
-}
-```
-
-
-```
 dependencies {
- compile 'com.andhradroid:components:1.0.6'
+ compile 'com.andhradroid:components:1.0.7'
 }
 ```
 
