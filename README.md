@@ -6,7 +6,7 @@ Reusable Components
 
 ```
 dependencies {
- compile 'com.andhradroid:components:1.0.7'
+ compile 'com.andhradroid:components:1.0.8'
 }
 ```
 
