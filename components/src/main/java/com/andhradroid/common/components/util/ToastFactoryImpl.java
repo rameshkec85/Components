@@ -23,4 +23,14 @@ public class ToastFactoryImpl implements ToastFactory {
     public void newToast(int textResId, int duration) {
         Toast.makeText(context, textResId, duration).show();
     }
+
+    @Override
+    public void showToast(CharSequence text) {
+        Toast.makeText(context, text, Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    public void showToast(int textResId) {
+        Toast.makeText(context, textResId, Toast.LENGTH_SHORT).show();
+    }
 }

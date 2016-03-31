@@ -45,7 +45,7 @@ public class LoginBasicValidation {
         return valid;
     }
 
-    private boolean validEmail(final CharSequence charSequence) {
+    public boolean validEmail(final CharSequence charSequence) {
         return Patterns.EMAIL_ADDRESS.matcher(charSequence).matches();
     }
 }

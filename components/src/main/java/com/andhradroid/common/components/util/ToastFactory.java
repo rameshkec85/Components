@@ -9,4 +9,8 @@ public interface ToastFactory {
 
     public void newToast(final int textResId, @Duration final int duration);
 
+    public void showToast(final CharSequence text);
+
+    public void showToast(final int textResId);
+
 }
